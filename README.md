@@ -2,4 +2,6 @@
 
 Tutorial Sheet of Devops.
 
-Generating Conflit.
+Kumar Abhinav 
+URN: 2004825
+CRN : 2021142
