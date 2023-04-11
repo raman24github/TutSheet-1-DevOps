@@ -2,6 +2,6 @@
 
 Tutorial Sheet of Devops.
 
-Kumar Abhinav 
-URN: 2004825
-CRN : 2021142
+Name: Ravleen Kaur
+URN: 2004977
+CRN : 2021098
